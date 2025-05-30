@@ -1,11 +1,4 @@
-# Nhóm 4 - Thực Tập Công Nhân
-Thực tập công nhân - Quản lý thư viện - Team 4
-- Võ Đình Dũng
-- Lê Chí Công
-- Vương Văn Lưu
-- Chanthala Saliengnak
-- Sisanonh Kiattysack
-- Nguyễn Lê Thiên Như
+
 
 ## Môi trường phát triển
 - Java 8
